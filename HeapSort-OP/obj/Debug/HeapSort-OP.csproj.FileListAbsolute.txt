@@ -1,0 +1,7 @@
+C:\Users\Edvinas\Documents\KTU_2019\ALG\HeapSort-OP\HeapSort-OP\obj\Debug\HeapSort-OP.csprojAssemblyReference.cache
+C:\Users\Edvinas\Documents\KTU_2019\ALG\HeapSort-OP\HeapSort-OP\obj\Debug\HeapSort-OP.csproj.CoreCompileInputs.cache
+C:\Users\Edvinas\Documents\KTU_2019\ALG\HeapSort-OP\HeapSort-OP\bin\Debug\HeapSort-OP.exe.config
+C:\Users\Edvinas\Documents\KTU_2019\ALG\HeapSort-OP\HeapSort-OP\bin\Debug\HeapSort-OP.exe
+C:\Users\Edvinas\Documents\KTU_2019\ALG\HeapSort-OP\HeapSort-OP\bin\Debug\HeapSort-OP.pdb
+C:\Users\Edvinas\Documents\KTU_2019\ALG\HeapSort-OP\HeapSort-OP\obj\Debug\HeapSort-OP.exe
+C:\Users\Edvinas\Documents\KTU_2019\ALG\HeapSort-OP\HeapSort-OP\obj\Debug\HeapSort-OP.pdb
